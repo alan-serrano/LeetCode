@@ -12,8 +12,10 @@ https://leetcode.com/
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [JavaScript](./JavaScript/26_Remove_Duplicates_from_Sorted_Array.js) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [JavaScript](./JavaScript/27_Remove_Element.js) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [JavaScript](./JavaScript/35_Search_Insert_Position.js) |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [JavaScript](./JavaScript/121_Best_Time_to_Buy_and_Sell_Stock.js) |
 | 141 | [ Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [JavaScript](./JavaScript/141_Linked_List_Cycle.js) |
 | 142 | [ Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [JavaScript](./JavaScript/142_Linked_List_Cycle_II.js) |
 | 206 | [ Reverse Linked List ](https://leetcode.com/problems/reverse-linked-list/) | [JavaScript](./JavaScript/206_Reverse_Linked_List.js) |
+| 217 | [ Contains Duplicate ](https://leetcode.com/problems/contains-duplicate/) | [JavaScript](./JavaScript/217_Contains_Duplicate.js) |
 | 977 | [Sq uares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [JavaScript](./JavaScript/977_Sorted_Square.js) |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [JavaScript](./JavaScript/1365_Smaller_Numbers_Than_Current.js) |
